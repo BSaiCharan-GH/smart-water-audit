@@ -1,0 +1,151 @@
+Date,Zone,Water_Usage_Liters
+2024-01-01,Hostel,202
+2024-01-01,Cafeteria,535
+2024-01-01,Academic Block,960
+2024-01-01,Library,370
+2024-01-01,Admin Office,206
+2024-01-02,Hostel,171
+2024-01-02,Cafeteria,800
+2024-01-02,Academic Block,120
+2024-01-02,Library,714
+2024-01-02,Admin Office,221
+2024-01-03,Hostel,566
+2024-01-03,Cafeteria,314
+2024-01-03,Academic Block,430
+2024-01-03,Library,558
+2024-01-03,Admin Office,187
+2024-01-04,Hostel,472
+2024-01-04,Cafeteria,199
+2024-01-04,Academic Block,971
+2024-01-04,Library,763
+2024-01-04,Admin Office,230
+2024-01-05,Hostel,761
+2024-01-05,Cafeteria,408
+2024-01-05,Academic Block,869
+2024-01-05,Library,443
+2024-01-05,Admin Office,591
+2024-01-06,Hostel,513
+2024-01-06,Cafeteria,905
+2024-01-06,Academic Block,485
+2024-01-06,Library,291
+2024-01-06,Admin Office,376
+2024-01-07,Hostel,260
+2024-01-07,Cafeteria,559
+2024-01-07,Academic Block,413
+2024-01-07,Library,121
+2024-01-07,Admin Office,352
+2024-01-08,Hostel,847
+2024-01-08,Cafeteria,956
+2024-01-08,Academic Block,660
+2024-01-08,Library,574
+2024-01-08,Admin Office,158
+2024-01-09,Hostel,610
+2024-01-09,Cafeteria,781
+2024-01-09,Academic Block,575
+2024-01-09,Library,799
+2024-01-09,Admin Office,882
+2024-01-10,Hostel,289
+2024-01-10,Cafeteria,786
+2024-01-10,Academic Block,662
+2024-01-10,Library,975
+2024-01-10,Admin Office,666
+2024-01-11,Hostel,343
+2024-01-11,Cafeteria,931
+2024-01-11,Academic Block,604
+2024-01-11,Library,230
+2024-01-11,Admin Office,584
+2024-01-12,Hostel,918
+2024-01-12,Cafeteria,746
+2024-01-12,Academic Block,120
+2024-01-12,Library,940
+2024-01-12,Admin Office,266
+2024-01-13,Hostel,373
+2024-01-13,Cafeteria,487
+2024-01-13,Academic Block,700
+2024-01-13,Library,415
+2024-01-13,Admin Office,113
+2024-01-14,Hostel,341
+2024-01-14,Cafeteria,876
+2024-01-14,Academic Block,445
+2024-01-14,Library,664
+2024-01-14,Admin Office,997
+2024-01-15,Hostel,439
+2024-01-15,Cafeteria,191
+2024-01-15,Academic Block,466
+2024-01-15,Library,554
+2024-01-15,Admin Office,527
+2024-01-16,Hostel,608
+2024-01-16,Cafeteria,875
+2024-01-16,Academic Block,134
+2024-01-16,Library,305
+2024-01-16,Admin Office,180
+2024-01-17,Hostel,661
+2024-01-17,Cafeteria,971
+2024-01-17,Academic Block,487
+2024-01-17,Library,101
+2024-01-17,Admin Office,489
+2024-01-18,Hostel,665
+2024-01-18,Cafeteria,205
+2024-01-18,Academic Block,871
+2024-01-18,Library,921
+2024-01-18,Admin Office,576
+2024-01-19,Hostel,802
+2024-01-19,Cafeteria,501
+2024-01-19,Academic Block,829
+2024-01-19,Library,655
+2024-01-19,Admin Office,261
+2024-01-20,Hostel,301
+2024-01-20,Cafeteria,369
+2024-01-20,Academic Block,962
+2024-01-20,Library,915
+2024-01-20,Admin Office,370
+2024-01-21,Hostel,555
+2024-01-21,Cafeteria,561
+2024-01-21,Academic Block,826
+2024-01-21,Library,351
+2024-01-21,Admin Office,801
+2024-01-22,Hostel,395
+2024-01-22,Cafeteria,824
+2024-01-22,Academic Block,819
+2024-01-22,Library,848
+2024-01-22,Admin Office,437
+2024-01-23,Hostel,978
+2024-01-23,Cafeteria,152
+2024-01-23,Academic Block,891
+2024-01-23,Library,316
+2024-01-23,Admin Office,863
+2024-01-24,Hostel,287
+2024-01-24,Cafeteria,479
+2024-01-24,Academic Block,592
+2024-01-24,Library,140
+2024-01-24,Admin Office,256
+2024-01-25,Hostel,114
+2024-01-25,Cafeteria,912
+2024-01-25,Academic Block,164
+2024-01-25,Library,956
+2024-01-25,Admin Office,938
+2024-01-26,Hostel,620
+2024-01-26,Cafeteria,443
+2024-01-26,Academic Block,228
+2024-01-26,Library,747
+2024-01-26,Admin Office,571
+2024-01-27,Hostel,162
+2024-01-27,Cafeteria,238
+2024-01-27,Academic Block,598
+2024-01-27,Library,692
+2024-01-27,Admin Office,491
+2024-01-28,Hostel,774
+2024-01-28,Cafeteria,518
+2024-01-28,Academic Block,388
+2024-01-28,Library,478
+2024-01-28,Admin Office,872
+2024-01-29,Hostel,589
+2024-01-29,Cafeteria,330
+2024-01-29,Academic Block,140
+2024-01-29,Library,127
+2024-01-29,Admin Office,234
+2024-01-30,Hostel,300
+2024-01-30,Cafeteria,939
+2024-01-30,Academic Block,879
+2024-01-30,Library,132
+2024-01-30,Admin Office,147
